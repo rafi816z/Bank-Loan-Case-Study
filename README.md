@@ -1,18 +1,17 @@
 # Bank-Loan-Case-Study
-Project Description 
+## 📊 Project Description
 
-This project aims to analyze a bank loan application dataset to uncover 
-patterns and variables influencing loan default behaviour. The objective is to 
-clean the data, handle missing values and outliers, evaluate data imbalance, 
-and conduct univariate, bivariate, and correlation analysis to identify key risk 
-factors. Insights derived will support data-driven decision-making for credit risk 
-management.
+This project focuses on analyzing a **bank loan application dataset** to uncover patterns and variables that influence **loan default behavior**. The primary objectives are to:
 
-Excel workbook size more than 25mb hence can't be loaded
-but you can see it using given links-
+- Clean the dataset and handle missing values and outliers  
+- Evaluate data imbalance and rectify it if necessary  
+- Conduct univariate, bivariate, and correlation analyses  
+- Identify key risk factors contributing to loan defaults  
 
-Cleaned datasets (it is advised to view this dataset in Excel) 
+The insights derived from this analysis aim to support **data-driven decision-making** in **credit risk management** by highlighting attributes strongly associated with borrower risk.
 
-Application_data.xlsx | [Link]([url](https://docs.google.com/spreadsheets/d/1khkEu0-tSaC-RW63Zg1NA_nRB6gFFxql/edit?usp=drive_link&ouid=117909462331247801337&rtpof=true&sd=true)) 
+> 📁 **Note**: The Excel workbooks used in this project exceed 25MB in size and cannot be directly uploaded to GitHub. However, you can access the cleaned datasets via the links below. It is **recommended to view them in Excel** for the best experience:
 
-previous_application.xlsx | [Link]([url](https://docs.google.com/spreadsheets/d/1fcZhtcC7Go7mv1xsJ12oCqHAxsV0zsGS/edit?gid=181428581#gid=181428581))
+- **Application Data**: [View on Google Sheets](https://docs.google.com/spreadsheets/d/1khkEu0-tSaC-RW63Zg1NA_nRB6gFFxql/edit?usp=drive_link&ouid=117909462331247801337&rtpof=true&sd=true)  
+- **Previous Application Data**: [View on Google Sheets](https://docs.google.com/spreadsheets/d/1fcZhtcC7Go7mv1xsJ12oCqHAxsV0zsGS/edit?gid=181428581#gid=181428581)
+
